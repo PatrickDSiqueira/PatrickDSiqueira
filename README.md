@@ -1,4 +1,4 @@
-### Olaaa... Sou Patrick Siqueira, Estudante de programação e atualmente procuro uma oportunidade de entrada no mundo da TI
+### Olá, Sou Patrick Siqueira, Apaixonado e estudante de programação 
 <div align="center">
   <a href="https://github.com/PatrickDSiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickDSiqueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   <a href = "mailto:psique.estuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patriick-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    
+
  </div>
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
