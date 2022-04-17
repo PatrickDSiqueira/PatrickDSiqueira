@@ -11,10 +11,6 @@
   <a href="https://www.linkedin.com/in/patriick-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  </div>
-   
-![Snake animation](https://github.com/PatrickDSiqueira/PatrickDSiqueira/blob/output/github-contribution-grid-snake.svg)
-
-    
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/PatrickDSiqueira/count.svg"/>
