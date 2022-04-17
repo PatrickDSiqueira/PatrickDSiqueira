@@ -1,4 +1,4 @@
-### Olá, Sou Patrick Siqueira, apaixonado e estudante de programação.
+### Olá, sou Patrick Siqueira, apaixonado e estudante de programação.
 <div align="center">
   <a href="https://github.com/PatrickDSiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickDSiqueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
