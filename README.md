@@ -10,6 +10,7 @@
   <a href = "mailto:psique.estuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patriick-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
+    
  </div>
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
