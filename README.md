@@ -16,4 +16,5 @@
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/PatrickDSiqueira/count.svg"/>
 </p>
+
 ![snake gif](https://github.com/PatrickDSiqueira/PatrickDSiqueira/blob/output/github-contribution-grid-snake.svg)
